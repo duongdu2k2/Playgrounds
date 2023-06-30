@@ -1,0 +1,44 @@
+{
+	"title": "[ICT] Dự án Swift",
+	"subtitle": "[ICT] Dự án giữa khoá",
+	"publisherName": "duongdu202",
+	"feedIdentifier": "vn.icantech",
+	"contactURL": "https://www.icantech.vn/",
+	"formatVersion": "1.0",	
+	"documents": [
+		{
+			"title": "[ICT] Dự án Swift",
+			"overviewSubtitle" : "[ICT] Dự án giữa khoá",
+			"description": "Lập trình dự án giữa khoá: trò chơi bắn tàu vũ trụ!",
+			"contentIdentifier": "vn.icantech",
+			"contentVersion": "1.0",
+			"url": "https://github.com/duongdu2k2/Playgrounds/blob/main/%5BICT%5DFinal.playgroundbook.zip",
+			"bannerImageURL": "https://github.com/duongdu2k2/Playgrounds/blob/main/banner.png",
+			"thumbnailURL": "https://github.com/duongdu2k2/Playgrounds/blob/main/ICANTECH.png",
+			"publishedDate": "2023-06-30T12:00:00+00:00",
+			"lastUpdatedDate": "2023-06-30T12:00:00+00:00",
+			"additionalInformation": [
+				{
+					"name": "Publisher:",
+					"value": "duongdu202"
+				},
+				{
+					"name": "Version:",
+					"value": "1.0"
+				},
+				{
+					"type": "date",
+					"name": "Released:",
+					"value": "2023-06-30T12:00:00+00:00"
+				},
+				{
+					"name": "Languages:",
+					"value": "English"
+				}
+			],
+			"previewImageURLs": [
+					"https://github.com/duongdu2k2/Playgrounds/blob/main/demo.png"
+			]
+		}
+	]
+}
