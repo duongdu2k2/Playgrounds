@@ -2,7 +2,7 @@
 	"title": "ICANTECH TEST",
 	"subtitle": "[ICT] Dự án giữa khoá",
 	"publisherName": "duongdu202",
-	"feedIdentifier": "com.github",
+	"feedIdentifier": "io.github.duongdu2k2.playgrounds",
 	"contactURL": "https://www.icantech.vn/",
 	"formatVersion": "1.0",	
 	"documents": [
@@ -10,7 +10,7 @@
 			"title": "[ICT] Dự án Swift ican",
 			"overviewSubtitle" : "[ICT] Dự án giữa khoá",
 			"description": "Lập trình dự án giữa khoá: trò chơi bắn tàu vũ trụ!",
-			"contentIdentifier": "com.github.duongdu2k2",
+			"contentIdentifier": "io.github.duongdu2k2.playgrounds.main",
 			"contentVersion": "1.0",
 			"url": "https://github.com/duongdu2k2/Playgrounds/raw/main/[ICT]Final.playgroundbook.zip",
 			"bannerImageURL": "https://github.com/duongdu2k2/Playgrounds/raw/main/banner.png",
