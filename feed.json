@@ -10,11 +10,11 @@
 			"title": "[ICT] Dự án Swift",
 			"overviewSubtitle" : "[ICT] Dự án giữa khoá",
 			"description": "Lập trình dự án giữa khoá: trò chơi bắn tàu vũ trụ!",
-			"contentIdentifier": "vn.icantech.playgroundbook",
+			"contentIdentifier": "com.github.duongdu2k2",
 			"contentVersion": "1.0",
-			"url": "https://github.com/duongdu2k2/Playgrounds/raw/main/Playground%20cu%CC%89a%20to%CC%82i%20ba%CC%89n%20sao.playgroundbook.zip",
-			"bannerImageURL": "https://github.com/duongdu2k2/Playgrounds/blob/main/banner.png",
-			"thumbnailURL": "https://github.com/duongdu2k2/Playgrounds/blob/main/ICANTECH.png",
+			"url": "https://github.com/duongdu2k2/Playgrounds/raw/main/%5BICT%5DFinal.playgroundbook.zip",
+			"bannerImageURL": "https://github.com/duongdu2k2/Playgrounds/raw/main/banner.png",
+			"thumbnailURL": "https://github.com/duongdu2k2/Playgrounds/raw/main/ICANTECH.png",
 			"publishedDate": "2023-06-30T12:00:00+00:00",
 			"lastUpdatedDate": "2023-06-30T12:00:00+00:00",
 			"additionalInformation": [
@@ -37,7 +37,7 @@
 				}
 			],
 			"previewImageURLs": [
-					"https://github.com/duongdu2k2/Playgrounds/blob/main/demo.png"
+					"https://github.com/duongdu2k2/Playgrounds/raw/main/demo.png"
 			]
 		}
 	]
