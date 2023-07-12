@@ -12,9 +12,9 @@
 			"description": "Lập trình dự án giữa khoá: trò chơi bắn tàu vũ trụ!",
 			"contentIdentifier": "com.github.duongdu2k2",
 			"contentVersion": "1.0",
-			"url": "https://github.com/duongdu2k2/Playgrounds/raw/main/%5BICT%5DFinal.playgroundbook.zip",
-			"bannerImageURL": "banner.png",
-			"thumbnailURL": "ICANTECH.png",
+			"url": "https://github.com/duongdu2k2/Playgrounds/raw/main/Brick%20Breaker.playgroundbook.zip",
+			"bannerImageURL": "https://github.com/duongdu2k2/Playgrounds/raw/main/banner.png",
+			"thumbnailURL": "https://github.com/duongdu2k2/Playgrounds/raw/main/ICANTECH.png",
 			"publishedDate": "2023-06-30T12:00:00+00:00",
 			"lastUpdatedDate": "2023-06-30T12:00:00+00:00",
 			"additionalInformation": [
@@ -24,7 +24,7 @@
 				}
 			],
 			"previewImageURLs": [
-					"demo.png"
+					"https://github.com/duongdu2k2/Playgrounds/raw/main/demo.png"
 			]
 		}
 	]
